@@ -1,1 +1,1 @@
-API側：https://github.com/kashi-iyo/Practice-app-by-API
+<h3>API側： https://github.com/kashi-iyo/-New-Authentication-by-Rails-API</h3>
